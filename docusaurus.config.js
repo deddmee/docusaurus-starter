@@ -29,7 +29,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:null,
+          editUrl: null,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
