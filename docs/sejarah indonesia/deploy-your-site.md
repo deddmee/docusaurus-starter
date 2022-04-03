@@ -1,31 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# Deploy your site
-
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
-
-It builds your site as simple **static HTML, JavaScript and CSS files**.
-
-## Build your site
-
-Build your site **for production**:
-
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at `http://localhost:3000/`.
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+##Masuknya islam dari Gujarat (india)
+–         Masuk pada  abad ke-13 M atau abad ke-7 H
+–         bermahzab Syafi’
+–         Dikemukakan oleh Christiaan Snouck Hurgronje, Moqqeta
+–         Argumentasinya didasarkan pada batu nisan Sultan Malik Al-Saleh yang wafat pada 17 Dzulhijjah 831 H atau 1297 M di Pasai, Aceh. Menurutnya, batu nisan di Pasai dan makam Maulana Malik Ibrahim yang wafat tahun 1419 di Gresik, Jawa Timur, memiliki bentuk yang sama dengan batu nisan yang terdapat di Kambay, Gujarat
+·         Moquetta kemudian berkesimpulan bahwa batu nisan tersebut diimpor dari Gujarat, atau setidaknya dibuat oleh orang Gujarat atau orang Indonesia yang telah belajar kaligrafi khas Gujarat.
