@@ -2,6 +2,7 @@
 sidebar_position: 1
 ---
 
+
 # Teori islamisasi di Nusantara
 ## Masuknya islam dari Gujarat (india)
 * Masuk pada  abad ke-13 M atau abad ke-7 H
