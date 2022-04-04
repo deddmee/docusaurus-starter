@@ -2,7 +2,7 @@
 sidebar_position: 45
 ---
 
-# Sumber kedatangan islam di Nusantara
+# Sumber kedatangan islam di nusantara
 ## Sumber Benda
 * batu nisan Sultan Malik Al-Saleh yang wafat pada 17 Dzulhijjah 831 H atau 1297 M di Pasai, Aceh
 * batu nisan di Pasai dan makam Maulana Malik Ibrahim yang wafat tahun 1419 di Gresik, Jawa Timur

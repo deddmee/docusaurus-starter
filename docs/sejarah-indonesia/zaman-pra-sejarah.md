@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Zaman pra Sejarah
+# Zaman pra sejarah
 ## Pengertian zaman pra sejarah
 ### pra sejarah
 * pra = sebelum,
