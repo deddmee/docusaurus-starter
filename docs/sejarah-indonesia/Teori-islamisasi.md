@@ -2,7 +2,7 @@
 sidebar_position: 50
 ---
 
-# Teori islamisasi di nusantara
+# Teori islamisasi 
 ## Masuknya islam dari Gujarat (india)
 * Masuk pada  abad ke-13 M atau abad ke-7 H
 * bermahzab Syafi’
