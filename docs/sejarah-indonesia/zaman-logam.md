@@ -20,10 +20,9 @@ zaman beso adalah zaman dimana manusia telah dapat melebur besi untuk dituang me
 :::
 
 ### tehnik peleburan besi
-1. tehnik bivalve
-tehnik bivalve adalah cara meleburkan besi dengan mencairkan besi terlebih dahulu kemudian dimasukkan kedalam cetakan (seperti membuat agar-agar)
-2. tehnik a cire perdue
-tehnik a cire perdue adalah cara meleburkan besi dengan memasukkan bijih besi kedalam tuangan tanah liat kemudian dibakar (seperti memasak ketupat),
+1. tehnik **bivalve**
+  adalah cara meleburkan besi dengan mencairkan besi terlebih dahulu kemudian dimasukkan kedalam cetakan (seperti membuat agar-agar)
+2. tehnik **a cire perdue** adalah cara meleburkan besi dengan memasukkan bijih besi kedalam tuangan tanah liat kemudian dibakar (seperti memasak ketupat),
 
 :::tip kelebihan
 1. tehnik **bivalve** memiliki kelebihan kelebihan tehnik ini cetakan bisa digunakan berulang-ulang namun hasil nya kurang rapi
