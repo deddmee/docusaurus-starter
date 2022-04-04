@@ -1,7 +1,7 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
-# zaman batu di indonesia
+# Zaman batu di indonesia
 batu di indonesia adalah zaman dimana manusia menggunakan peralatan dari batu untuk bertahan hidup,
 
 ## zaman batu di indonesia
