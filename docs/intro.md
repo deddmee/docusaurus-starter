@@ -6,6 +6,6 @@ sidebar_position: 1
 
 :::tip
 
-Halaman ini adalah "open source materi" kamu bisa memilih topik pada menu sidebar
+Halaman ini adalah "open source material" kamu bisa klik pada menu disamping kiri
 
 :::
