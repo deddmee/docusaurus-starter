@@ -10,6 +10,6 @@ Halaman ini adalah "open source material" kamu bisa klik pada menu disamping kir
 
 :::
 
-![panduan](/img/panduan.webp)
+![panduan](/img/img_panduan.webp)
 <br>
-![panduan2](/img/panduan2.webp)
+![panduan2](/img/img_panduan2.webp)
